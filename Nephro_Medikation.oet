@@ -19,7 +19,7 @@
     </original_author>
     <lifecycle_state>Initial</lifecycle_state>
     <details>
-      <purpose>Zur Darstellung eines Medikamentenplans in Anlehnung an den Bundeseinheitlichen Medikamentenplans (BMP). https://www.kbv.de/html/medikationsplan.php und https://www.bundesaerztekammer.de/aerzte/telematiktelemedizin/medikationsplaene/</purpose>
+      <purpose>Zur Darstellung eines Medikamentenplans in Anlehnung an den Bundeseinheitlichen Medikamentenplans (BMP). https://www.kbv.de/html/medikationsplan.php</purpose>
       <keywords>
         <item>Medikament</item>
         <item>Arzneimittel</item>
