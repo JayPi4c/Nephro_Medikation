@@ -161,10 +161,11 @@
             <includedValues>Beutel mit retardierten Filmtabletten</includedValues>
             <includedValues>Flüssigseife</includedValues>
             <includedValues>Filmtabletten</includedValues>
+            <includedValues>Granulat zur Entnahme aus Kapseln</includedValues>
             <includedValues>Gel</includedValues>
             <includedValues>Gas und Lösungsmittel zur Herstellung einer Injektions/Infusionsdispersion</includedValues>
             <includedValues>Globuli</includedValues>
-            <includedValues>Magensaftresistentes Granulat</includedValues>
+            <includedValues>Magensaftresitentes Granulat</includedValues>
             <includedValues>Gelplatte</includedValues>
             <includedValues>Granulat</includedValues>
             <includedValues>Granulat zur Herstellung einer Suspension zum Einnehmen</includedValues>
@@ -176,13 +177,17 @@
             <includedValues>Hartkapseln mit veränderter Wirkstofffreisetzung</includedValues>
             <includedValues>Infusionsampullen</includedValues>
             <includedValues>Infusionsbeutel</includedValues>
+            <includedValues>Infusionsdispersion</includedValues>
+            <includedValues>Injektionslösung in einer Fertigspritze</includedValues>
             <includedValues>Infusionsflaschen</includedValues>
             <includedValues>Infusionslösungskonzentrat</includedValues>
             <includedValues>Injektionsflaschen</includedValues>
             <includedValues>Infusionsset</includedValues>
             <includedValues>Inhalationsampullen</includedValues>
             <includedValues>Inhalationspulver</includedValues>
+            <includedValues>Injektions- oder Infusionslösung oder Lösung zum Einnehmen</includedValues>
             <includedValues>Injekts-, Infusionslösung</includedValues>
+            <includedValues>Injektionslösung zur intramuskulären Anwendung</includedValues>
             <includedValues>Inhalationskapseln</includedValues>
             <includedValues>Injektionslösung</includedValues>
             <includedValues>Implantat</includedValues>
@@ -201,11 +206,12 @@
             <includedValues>Kegel</includedValues>
             <includedValues>Kerne</includedValues>
             <includedValues>Kaugummi</includedValues>
+            <includedValues>Konzentrat zur Herstellung einer Infusionsdispersion</includedValues>
             <includedValues>Konzentrat zur Herstellung einer Injektions- oder Infusionslösung</includedValues>
             <includedValues>Kleinkindersuppositorien</includedValues>
             <includedValues>Klistiere</includedValues>
             <includedValues>Klistier-Tabletten</includedValues>
-            <includedValues>Hartkapseln mit Magensaftresistent überzogene Pellets</includedValues>
+            <includedValues>Hartkapsel mit Magensaftresistent überzogene Pellets</includedValues>
             <includedValues>Hartkapsel magensaftresistent</includedValues>
             <includedValues>Kondome</includedValues>
             <includedValues>Kompressen</includedValues>
@@ -226,6 +232,7 @@
             <includedValues>Lutschpastillen</includedValues>
             <includedValues>Lutschtabletten</includedValues>
             <includedValues>Milch</includedValues>
+            <includedValues>Mischung</includedValues>
             <includedValues>Mixtur</includedValues>
             <includedValues>Magensaftresistentes Retardgranulat</includedValues>
             <includedValues>Magensaftresistente Pellets</includedValues>
@@ -249,17 +256,22 @@
             <includedValues>Pflaster</includedValues>
             <includedValues>Pflaster transdermal</includedValues>
             <includedValues>Pulver zur Herstellung einer Injektions-, Infusions-oder Inhalationslösung</includedValues>
-            <includedValues>Pulver zur Herstellung einer Infusionslösung</includedValues>
+            <includedValues>Pulver zur Herstellung einer Injektions- bzw. Infusionslösung oder Pulver und Lösungsmittel zur Herstellung einer Lösung zur intravesikalen Anwendung</includedValues>
+            <includedValues>Pulver für ein Konzentrat zur Herstellung einer Infusionslösung, Pulver zur Herstellung einer Lösung zum Einnehmen</includedValues>
+            <includedValues>Pulver zu Herstellung einer Infusionslösung</includedValues>
             <includedValues>Pulver zur Herstellung einer Injektions- oder Infusionslösung</includedValues>
             <includedValues>Pulver zur Herstellung einer Injektionslösung</includedValues>
             <includedValues>Pulver zur Herstellung eines Infusionslösungskonzentrats</includedValues>
+            <includedValues>Pulver zur Herstellung einer Infusionssuspension</includedValues>
             <includedValues>Pulver zur Herstellung einer Injektions- bzw. Infusionslösung</includedValues>
+            <includedValues>Pulver für ein Konzentrat zur Herstellung einer Infusionslösung</includedValues>
             <includedValues>Pulver zur Herstellung einer Lösung zum Einnehmen</includedValues>
             <includedValues>Pulver und Lösungsmittel zur Herstellung einer Infusionslösung</includedValues>
             <includedValues>Perlongetten</includedValues>
             <includedValues>Pulver und Lösungsmittel zur Herstellung einer Injektions-bzw. Infusionslösung</includedValues>
             <includedValues>Pulver und Lösungsmittel zur Herstellung einer Injektionslösung</includedValues>
             <includedValues>Pulver und Lösungsmittel für ein Konzentrat zur Herstellung einer Infusionslösung</includedValues>
+            <includedValues>Pulver und Lösungsmittel zur Herstellung einer Injektionssuspension</includedValues>
             <includedValues>Pulver und Lösungsmittel zur Herstellung einer Lösung zur intravesikalen Anwendung</includedValues>
             <includedValues>Pumplösung</includedValues>
             <includedValues>Presslinge</includedValues>
@@ -272,7 +284,9 @@
             <includedValues>Retard-Tabletten</includedValues>
             <includedValues>Retard-Granulat</includedValues>
             <includedValues>Rektalkapseln</includedValues>
+            <includedValues>Retardmikrokapseln und Suspensionsmittel</includedValues>
             <includedValues>Rektalschaum</includedValues>
+            <includedValues>Rektalsuspension</includedValues>
             <includedValues>Retard-überzogenen Tabletten</includedValues>
             <includedValues>Saft</includedValues>
             <includedValues>Salbe</includedValues>
@@ -288,6 +302,7 @@
             <includedValues>Sprühflasche</includedValues>
             <includedValues>Spüllösung</includedValues>
             <includedValues>Spray</includedValues>
+            <includedValues>Transdermales Spray</includedValues>
             <includedValues>Spritzen</includedValues>
             <includedValues>Säuglingssuppositorien</includedValues>
             <includedValues>Stechampullen</includedValues>
@@ -296,6 +311,7 @@
             <includedValues>Streifen</includedValues>
             <includedValues>Substanz</includedValues>
             <includedValues>Suspension zum Einnehmen</includedValues>
+            <includedValues>Sublingualspray, Lösung</includedValues>
             <includedValues>Suppositorien</includedValues>
             <includedValues>Suspension</includedValues>
             <includedValues>Sublingualtabletten</includedValues>
@@ -309,6 +325,7 @@
             <includedValues>Test</includedValues>
             <includedValues>Tinktur</includedValues>
             <includedValues>Tabletten in Kalenderpackung</includedValues>
+            <includedValues>Tablette zur Herstellung einer Lösung zum Einnehmen</includedValues>
             <includedValues>Tabletten magensaftresistent</includedValues>
             <includedValues>Tonikum</includedValues>
             <includedValues>Tampon</includedValues>
@@ -320,6 +337,7 @@
             <includedValues>Trinktabletten</includedValues>
             <includedValues>Trockensaft</includedValues>
             <includedValues>Tabletten zur Herstellung einer Suspension zum Einnehmen für einen Dosierspender</includedValues>
+            <includedValues>Tablette zur Herstellung einer Suspension zum Einnehmen</includedValues>
             <includedValues>Trockensubstanz ohne Lösungsmittel</includedValues>
             <includedValues>Teststäbchen</includedValues>
             <includedValues>Transdermales System</includedValues>
@@ -327,6 +345,7 @@
             <includedValues>Tube</includedValues>
             <includedValues>Tücher</includedValues>
             <includedValues>Tupfer</includedValues>
+            <includedValues>Tablette mit veränderter Wirkstofffreisetzung</includedValues>
             <includedValues>überzogene Tabletten</includedValues>
             <includedValues>Vaginallösung</includedValues>
             <includedValues>Vaginalring</includedValues>
